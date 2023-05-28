@@ -11,9 +11,9 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: App marketing template for Jekyll.
-author:
-  name:
-  email:
+author: ggim95748
+  name: ggim95748
+  email: ggim95748@gmail.com
   twitter: # twitter username without the @ symbol
 social:
   name: Frisco Template
