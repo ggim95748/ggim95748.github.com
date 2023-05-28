@@ -14,11 +14,11 @@ description: App marketing template for Jekyll.
 author: ggim95748
   name: ggim95748
   email: ggim95748@gmail.com
-  twitter: # twitter username without the @ symbol
+  twitter: 
 social:
   name: Frisco Template
-  links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+  links: "https://ggim95748.github.io/"
+    - 
 
 # -----
 # Build
@@ -112,7 +112,8 @@ social_icons:
   - Pinterest
   - Tumblr
   - Twitter
-  - YouTube
+  - YouTube 
+"I-WatchEverythingOnRepeat"
   - Email
   - RSS
 
